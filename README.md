@@ -83,7 +83,7 @@ Figure 6: Simple simulation Circuit
 > - Step 4: Change the resistor's resistance to see if it affects the LED's intensity. 
 
 ```
-**2.2.	Learning Reflection**
+**3.1.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
 We observed that when we connect the whole circuit and keep resistance 1k ohm the light glows brighter than keeping the keeping the resistance 2k ohm and when the resistance is 3k ohm the light doesn't glow due to high resistance and lastly when there is no resistance the light glows the brightest but gets damaged due to current overflow.
